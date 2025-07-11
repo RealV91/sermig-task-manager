@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Preparare pacchi viveri",
+      "description": "Distribuire viveri ai bisognosi",
+      "status": "incompleto"
+    },
+    {
+      "id": 2,
+      "title": "Pulizia magazzino",
+      "description": "Riordinare e pulire il magazzino",
+      "status": "completo"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "sermig-task-manager",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "redux": "^4.2.0",
+    "@reduxjs/toolkit": "^1.9.0",
+    "react-redux": "^8.0.0",
+    "redux-thunk": "^2.4.0",
+    "tailwindcss": "^3.0.0",
+    "formik": "^2.2.9",
+    "yup": "^0.32.11",
+    "json-server": "^0.17.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "server": "json-server --watch db.json --port 5000",
+    "build": "react-scripts build"
+  }
+}
